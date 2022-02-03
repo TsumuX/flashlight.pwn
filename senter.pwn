@@ -14,5 +14,5 @@ CMD:senter(playerid)
 	else
 	RemovePlayerAttachedObject(playerid,1);
 	RemovePlayerAttachedObject(playerid,2);
-        TogSenter [playerid] =0
+        TogSenter[playerid] =0;
 }
